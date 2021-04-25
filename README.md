@@ -8,13 +8,13 @@ For Cardiovascular heart failures, it is well know that Cardiovascular diseases 
 This Cardiovascular heart failures analysis and EDA models to visualize how patients survival for risk of heart failure is ranked. This data study evaluates levels and measures related to serum creatinine and ejection fraction, and alsl other risk factors such as hypertension, diabetes, hyperlipidaemia, aneamia, smoking. 
 
 Python libraries used:
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import cross_val_score
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import precision_score, recall_score
-from sklearn.metrics import f1_score
-import numpy as np
-import pandas as pd
-import pymongo
-import matplotlib.pyplot as plt 
-import seaborn as sns
+* from sklearn.model_selection import train_test_split
+* from sklearn.model_selection import cross_val_score
+* from sklearn.ensemble import RandomForestClassifier
+* from sklearn.metrics import precision_score, recall_score
+* from sklearn.metrics import f1_score
+* import numpy as np
+* import pandas as pd
+* import pymongo
+* import matplotlib.pyplot as plt 
+* import seaborn as sns
