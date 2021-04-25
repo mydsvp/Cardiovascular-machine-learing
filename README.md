@@ -1,4 +1,4 @@
-# Cardiovascular-machine-learing
+# Cardiovascular-machine-learning
 Cardiovascular Heart Failure Features Analysis Machine Learning Accuracy Model
 
 For this Cardiovascular heart failures analysis, the purpose and effort is to investigate how to use EDA analytics and a basic Random Forest Classifier ensemble model for determining model performance accuracy and precision that might be later developed into are more robust AI ML model apply to the Cardiovascular diseases dataset analysis.  
